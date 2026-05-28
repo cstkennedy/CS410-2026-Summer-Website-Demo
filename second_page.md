@@ -1,38 +1,3 @@
-# Quick Links
-
-  - [GitHub Repository](https://github.com/cstkennedy/CS410-2025-Summer-Website-Demo)
-  - [GitHub Pages Site](https://cstkennedy.github.io/CS410-2025-Summer-Website-Demo/)
-
-
-# Separate Pages
-
-  - [2025.06.02.GitHub.Pages.And.Resources.md](./2025.06.02.GitHub.Pages.And.Resources)
-  - [phase3_alternate.md](./phase3_alternate)
-
-
-# References
-
-## GitHub Pages
-
-  - [GitHub Flavor Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-
-## HTML & CSS
-
-  - [HTML](https://www.w3schools.com/html/default.asp)
-  - [CSS](https://www.w3schools.com/css/default.asp)
-  - [Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
-
-
-## JavaScript
-
-  - [JavaScript](https://www.w3schools.com/js/default.asp)
-
-
-# Notes
-
-By default `README.md` will be used as your GitHub Pages site's `index.html`
-(i.e., landing/home page).
 
 
 ## Code Snippets
