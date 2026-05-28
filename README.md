@@ -1,1 +1,1 @@
-# -CS410-2026-Summer-Website-Demo
+# CS410-2026-Summer-Website-Demo
